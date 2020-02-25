@@ -10,6 +10,6 @@ class EmailAddressParser
     @string = string
   end
   
-  .
+  parser.parse
   
 end
